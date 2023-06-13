@@ -1,7 +1,7 @@
-package d.shokin.contriesinfoservice.service;
+package d.shokin.countriesinfoservice.service;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import d.shokin.contriesinfoservice.model.Features;
+import d.shokin.countriesinfoservice.model.Features;
 import org.springframework.stereotype.Service;
 
 import java.io.IOException;

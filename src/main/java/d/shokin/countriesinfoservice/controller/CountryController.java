@@ -1,7 +1,7 @@
-package d.shokin.contriesinfoservice.controller;
+package d.shokin.countriesinfoservice.controller;
 
-import d.shokin.contriesinfoservice.model.Features;
-import d.shokin.contriesinfoservice.service.CountryService;
+import d.shokin.countriesinfoservice.model.Features;
+import d.shokin.countriesinfoservice.service.CountryService;
 import io.swagger.v3.oas.annotations.OpenAPIDefinition;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.info.Info;

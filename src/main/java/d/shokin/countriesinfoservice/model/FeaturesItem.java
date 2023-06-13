@@ -1,4 +1,4 @@
-package d.shokin.contriesinfoservice.model;
+package d.shokin.countriesinfoservice.model;
 
 import java.util.List;
 
